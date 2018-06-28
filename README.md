@@ -1,3 +1,3 @@
 # hello-world
-just my very first repository
-uanagana smoke's in the night
+just my very first repository.
+<p>Uanagana smoke's in the night.</p>
